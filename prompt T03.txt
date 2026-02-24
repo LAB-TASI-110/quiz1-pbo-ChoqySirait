@@ -1,0 +1,37 @@
+ChatGPT
+    Sistem loundry di del saat ini :
+    1. masih secara manual input barang (menulis dibuku khusus), misal celana pendek : 1, kemeja : 2, dll
+    2. untuk komplain terkait kerusakan pakaian masih bersifat primitif yaitu melalui whatsapp
+    3. belum ada sistem digital
+
+    Sistem yang akan mendukung operasional :
+    1. Sistem dimana menginput barang dengan kategori pakaian,jumlah,luntur keterangan barang
+    2. Tersedia lansung complain untuk pakaian yang rusak
+    3. fitur letak gambar untuk pakaian yang rusak 
+
+    input :
+    seperti no 1
+
+    Contoh input :
+
+    Barang
+    pakaian : kemeja 1 celanapendek 2 kaosdel 1
+    luntur  : kemeja
+    gambar  : < >
+
+    output :
+
+    contoh output :
+    Kemeja 1 celanapendek 2 kaosdel 1
+    jumlah 4
+    sedang diproses
+2. dalam bahasa pemograman java
+3. dalam satu file saja
+   dimana class nya Driver3
+4. inputnya seperti berikut :
+    pakaian : kemeja 1 celanapendek 2 kaosdel 1
+    luntur  : kemeja
+    gambar  : < >
+5. buatlah agar ada batas jumlah sesuai input untuk pakaian yang luntur, misalnya kaos kaki seperti pada gambar
+6. bukan maksimal luntur akan tetapi user akan menginput jumlah luntur nya sehingga outputnya tinggal menyesuaikan saja dengan inputan lunturnya
+7. buat ke kode berikut sesuai dengan ketentuan tadi

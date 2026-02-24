@@ -1,0 +1,10 @@
+Gemini
+1.Jadi seperti yang tertera pada gambar, ada beberapa keterangan lagi
+  dimana jumlah porsi ucok adalah dua kali porsi butet, berarti jika butet memesan 3 maka ucok 6.
+  kemudian untuk output yang diharapkan tidak perlu sama persis namun harus tepat spesifikasinya seperti pada gambar yang saya kirim.
+2. berikan kode dalam bentuk bahasa java
+3. berikut class nya
+4. bagaimana pengisian input nya?
+5. mengapa menggunakan switch?
+6. untuk diskonnya tidak lansung teraplikasi pada program, hanya saja mereka mendapatkan kupon tersebut
+   berikanlah kode yang sudah di perbaharui

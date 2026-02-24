@@ -1,0 +1,11 @@
+ChatGPT
+1. Seperti yang tertera pada soal digambar berikut, jelas bahwa program yang diminta adalah program yang nantinya mampu menentukan total nilai hanya untuk kelompok yang diminta.
+   soal tersebut adalah semacam deret seperti kertas ujian,
+   pada pola terlihat jelas bahwa penempatan dari depan yaitu perempuan kemudian laki laki
+   sesuaikanlah kodenya(java) dengan inputnya
+2. berarti untuk inputan itu satu satu untuk satu jenis kelamin?
+3. Apa maksud dari kode berikut?
+4. 270
+5. berarti defaultnya memang perempuan?
+6. mengapa 100? kan mulai dari yang pertama yaitu laki laki?
+7. Soal yang mana?
